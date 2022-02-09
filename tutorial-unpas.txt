@@ -1,6 +1,7 @@
 Tutorial UNPAS
 - Working with Git & GitHub
-- Branching and Forking
+- Branching
+- Forking
 - Merging
 - Ignore
 - Remote
