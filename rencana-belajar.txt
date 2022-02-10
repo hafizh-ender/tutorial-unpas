@@ -1,0 +1,6 @@
+RENCANA BELAJAR COMPUTER SCIENCE
+
+- C++
+- PHP dan MariaDB
+- Python
+- Matlab
