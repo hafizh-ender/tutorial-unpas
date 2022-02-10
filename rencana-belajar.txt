@@ -7,3 +7,7 @@ RENCANA BELAJAR COMPUTER SCIENCE
 - PHP dan MariaDB
 - Python and Jupyter
 - Matlab
+
+RENCANA MOBILE LEGEND
+- Yi Sun-shin: Collector
+- Karina: Zodiac
