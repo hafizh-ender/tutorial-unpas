@@ -3,6 +3,7 @@ RENCANA BELAJAR COMPUTER SCIENCE
 - C++
   * The syntax
   * Related to robotics
+- Fundamental Data Structure
 - PHP dan MariaDB
-- Python
+- Python and Jupyter
 - Matlab
